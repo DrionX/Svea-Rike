@@ -1,4 +1,4 @@
-﻿capital = 64
+﻿capital = 55
 
 oob = "PRS_1936"
 
@@ -12,8 +12,6 @@ set_technology = {
 	early_fighter = 1
 	early_submarine = 1
 }
-
-puppet = HES
 
 set_research_slots = 4
 
@@ -76,19 +74,19 @@ set_politics = {
 
 	parties = {
 		democratic = { 
-			popularity = 30
+			popularity = 0
 		}
 
 		fascism = {
-			popularity = 15
+			popularity = 20
 		}
 		
 		communism = {
-			popularity = 15
+			popularity = 0
 		}
 		
 		neutrality = { 
-			popularity = 50
+			popularity = 80
 		}
 	}
 	
@@ -127,9 +125,9 @@ set_politics = {
 }
 
 create_country_leader = {
-	name = "Kaiser Willhelm II"
+	name = "Ernest Louis"
 	desc = "POLITICS_KARLIS_ULMANIS_DESC"
-	picture = "portrait_willhelm_ii.dds"
+	picture = "portrait_ernest_louis.dds"
 	expire = "1965.1.1"
 	ideology = despotism
 	traits = {
