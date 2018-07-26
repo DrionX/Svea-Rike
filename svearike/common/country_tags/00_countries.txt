@@ -114,3 +114,4 @@ MAN = "countries/Manchukou.txt"
 ###############
 PRS = "countries/Prussia.txt"
 HES = "countries/Duchy of Hesse.txt"
+BAV = "countries/Bavaria.txt"
